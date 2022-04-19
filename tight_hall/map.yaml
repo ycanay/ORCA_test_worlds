@@ -1,0 +1,6 @@
+image: tight_hall.png
+resolution : 0.025
+origin: [-12.5, -12.5, 0.0]
+occupied_thresh: 0.65
+free_thresh: 0.0005
+negate: 1
